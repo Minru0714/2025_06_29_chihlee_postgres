@@ -1,0 +1,8 @@
+print("hello! python!")
+print("以下是python的基本資料類型(int, flost, str, bool)")
+15 #整數,表示用(int)
+15.0 #浮點數(float)
+"15.0" #字串,(str)
+'15.0' #字串,(str)
+True #布林值,(bool)
+False #布林值,(bool)
